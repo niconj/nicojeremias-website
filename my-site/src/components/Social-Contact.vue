@@ -3,22 +3,22 @@
     <ul>
       <li class="hvr-float">
         <a href="https://github.com/niconj" target="_blank">
-          <img src="../assets/github.svg">
+          <img src="../assets/github.svg" alt="Github logo">
         </a>
       </li>
       <li class="hvr-float">
         <a href="https://www.linkedin.com/in/nicolasjeremias/" target="_blank">
-          <img src="../assets/linkedin.svg">
+          <img src="../assets/linkedin.svg" alt="LinkedIn logo">
         </a>
       </li>
       <li class="hvr-float">
         <a href="https://www.instagram.com/nico_nj/" target="_blank">
-          <img src="../assets/instagram.svg">
+          <img src="../assets/instagram.svg" alt="Instagram logo">
         </a>
       </li>
       <li class="hvr-float">
         <a href="mailto:jeremias.nicolas@gmail.com?Subject=hello!">
-          <img src="../assets/gmail.svg">
+          <img src="../assets/gmail.svg" alt="Email image">
         </a>
       </li>
     </ul>

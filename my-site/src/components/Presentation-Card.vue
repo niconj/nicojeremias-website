@@ -8,11 +8,11 @@
 
       <section class="bio">
         <p>I've been building software for more than 6 years for a wide variety of clients.<br>
-        You can check some of my personal projects on <a class="hvr-underline-from-center" href="https://github.com/niconj" target="_blank">Github</a> and my work experience in <a class="hvr-underline-from-center" href="https://www.linkedin.com/in/nicolasjeremias/" target="_blank">LinkedIn.</a></p>
+        You can check some of my personal projects on <a class="hvr-underline-from-center" href="https://github.com/niconj" target="_blank" alt="link to github account">Github</a> and my work experience in <a class="hvr-underline-from-center" href="https://www.linkedin.com/in/nicolasjeremias/" target="_blank" alt="link to linkedin account">LinkedIn.</a></p>
 
-        <p>During my free time I enjoy <a class="hvr-underline-from-center" href="https://ar.pinterest.com/nicolsjeremas/diy/" target="_blank">woodworking</a>, stand up comedy and trekking. <br><br>
+        <p>During my free time I enjoy <a class="hvr-underline-from-center" href="https://ar.pinterest.com/nicolsjeremas/diy/" target="_blank" alt="link to pinterest">woodworking</a>, stand up comedy and trekking. <br><br>
         Do you want to get in touch? <br>
-        <a class="hvr-underline-from-center" href="mailto:jeremias.nicolas@gmail.com?Subject=hello!">Send me a message!</a></p>
+        <a class="hvr-underline-from-center" href="mailto:jeremias.nicolas@gmail.com?Subject=hello!" alt="link to new email">Send me a message!</a></p>
       </section>
     </div>
   </div>
