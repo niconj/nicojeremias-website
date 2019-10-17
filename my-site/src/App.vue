@@ -20,18 +20,19 @@ export default {
 }
 </script>
 
-<style>
-body {
-  margin: 0;
-  background: #F2F2F2;
-}
+<style lang="scss">
+  @import '_variables.scss';
 
-#app {
-  /* font-family: 'Avenir', Helvetica, Arial, sans-serif; */
-  font-family: 'Quicksand', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+  body {
+    margin: 0;
+    background: $background-color;
+  }
+
+  #app {
+    font-family: 'Quicksand', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: $primary-color;
+  }
 </style>
