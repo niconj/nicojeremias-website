@@ -3,7 +3,7 @@
     <ul>
       <li class="hvr-float">
         <a href="https://github.com/niconj" target="_blank">
-          <img src="../assets/github-logo.svg">
+          <img src="../assets/github.svg">
         </a>
         <!-- <span>Github</span> -->
       </li>
